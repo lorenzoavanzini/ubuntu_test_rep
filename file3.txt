@@ -1,1 +1,2 @@
 questa riga è stata scritta da github (la repository online)
+questa riga, invece, è stata aggiunta dal computer offline
