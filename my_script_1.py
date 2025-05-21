@@ -1,1 +1,1 @@
-import healpy
+import healpy, matplotplib
